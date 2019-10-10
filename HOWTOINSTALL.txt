@@ -1,0 +1,5 @@
+Thanks for selecting Vince's Splashes!
+How to install:
+1). Delete any folders containing older versions of the mod
+2). Copy the folder of the most recent version
+3). Paste it into your minecraft "resource packs" folder
